@@ -30,7 +30,6 @@ gulp psi
 7. Now you can check psi score of the app
 
 
-
 ### What I've done for it.
 
 #### Part 1: Optimize PageSpeed Insights score for index.html
